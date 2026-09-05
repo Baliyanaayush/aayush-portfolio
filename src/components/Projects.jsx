@@ -14,12 +14,27 @@ const Projects = () => {
         "Cloudinary",
         "AI",
       ],
-      github: "#",
-      live: "#",
+      github: "https://github.com/Baliyanaayush/BG_Remover",
+      live: "https://ai-bg-removal.netlify.app/",
     },
-
     {
       number: "02",
+      title: "Prescripto",
+      type: "Full Stack",
+      description:
+        "A complete doctor appointment platform with user, doctor, and admin functionality. Users can explore doctors, select appointment slots, and manage their appointments.",
+      tech: [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+      ],
+      github: "https://github.com/Baliyanaayush/prescripto-",
+      live: "#",
+    },
+    {
+      number: "03",
       title: "CodeNamastey",
       type: "Full Stack / AI",
       description:
@@ -31,23 +46,6 @@ const Projects = () => {
         "MongoDB",
         "Monaco Editor",
         "Gemini AI",
-      ],
-      github: "#",
-      live: "#",
-    },
-
-    {
-      number: "03",
-      title: "Prescripto",
-      type: "Full Stack",
-      description:
-        "A complete doctor appointment platform with user, doctor, and admin functionality. Users can explore doctors, select appointment slots, and manage their appointments.",
-      tech: [
-        "React",
-        "Tailwind CSS",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
       ],
       github: "#",
       live: "#",
