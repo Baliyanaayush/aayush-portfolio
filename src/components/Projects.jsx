@@ -31,7 +31,7 @@ const Projects = () => {
         "MongoDB",
       ],
       github: "https://github.com/Baliyanaayush/prescripto-",
-      live: "doc-prescripto.netlify.app",
+      live: "https://doc-prescripto.netlify.app/",
     },
     {
       number: "03",
