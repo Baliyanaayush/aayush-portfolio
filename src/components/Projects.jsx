@@ -31,14 +31,14 @@ const Projects = () => {
         "MongoDB",
       ],
       github: "https://github.com/Baliyanaayush/prescripto-",
-      live: "#",
+      live: "doc-prescripto.netlify.app",
     },
     {
       number: "03",
       title: "CodeNamastey",
       type: "Full Stack / AI",
       description:
-        "A LeetCode-inspired coding platform where developers can solve programming problems, write code using a Monaco editor, and interact with an AI chatbot for assistance.",
+        "A coding platform where developers can solve programming problems, write code using a Monaco editor, and interact with an AI chatbot for assistance.",
       tech: [
         "React",
         "Node.js",
